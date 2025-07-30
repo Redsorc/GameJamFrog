@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 55611f8c9aa368346b20a6cc7b831b11
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/behaviourTrees/customNodes/MoveActionNode.cs
+  uploadId: 770975

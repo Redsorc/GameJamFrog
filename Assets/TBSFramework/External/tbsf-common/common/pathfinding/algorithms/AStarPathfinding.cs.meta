@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4919cfa767f16a34baba60fff45ccc8d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/pathfinding/algorithms/AStarPathfinding.cs
+  uploadId: 770975

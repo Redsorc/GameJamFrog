@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ecb9cdb2f9b97254a8a11e998c38a2c1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/pathfinding/algorithms/DijkstraPathfinding.cs
+  uploadId: 770975

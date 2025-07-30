@@ -1,0 +1,60 @@
+# ========== Unity Core ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# ========== Unity Cache ==========
+UserSettings/
+.vscode/
+.idea/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.tmp
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+
+# ========== Auto-generated files ==========
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.exe
+
+# ========== Crash Reports ==========
+*.stacktrace
+
+# ========== OS Specific ==========
+.DS_Store
+Thumbs.db
+
+# ========== Rider / JetBrains ==========
+.idea/
+*.iml
+
+# ========== Visual Studio Code ==========
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ========== Gradle & Android ==========
+.gradle/
+*.gradle
+*.apk
+*.aab
+
+# ========== Builds & Cache ==========
+[Bb]uild/
+[Bb]uilds/
+*.unitypackage

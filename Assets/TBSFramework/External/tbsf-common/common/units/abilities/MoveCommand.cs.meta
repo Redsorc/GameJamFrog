@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8a855f0100d39c64f9a90f0ba93c2a6c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/units/abilities/MoveCommand.cs
+  uploadId: 770975

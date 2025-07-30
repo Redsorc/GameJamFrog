@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 910d35673f99ade4b9e595af02250a4f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/controllers/gridStates/GridStateAwaitInput.cs
+  uploadId: 770975

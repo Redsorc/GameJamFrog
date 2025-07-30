@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 90aeb9ad3cf0a5b4a8397dbcf819e5b0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/behaviourTrees/baseNodes/DelayNode.cs
+  uploadId: 770975

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f38de7321f8d6424492b9da7fbfd0c88
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/evaluators/RandomPositionEvaluator.cs
+  uploadId: 770975

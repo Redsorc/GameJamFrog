@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6dda7ac72061ca84b9ef67edcf10fa6a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/behaviourTrees/customNodes/EnemiesInRangeNode.cs
+  uploadId: 770975

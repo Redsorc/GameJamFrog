@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d87dbbb8e3f051f43b026a73a99120f4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/behaviourTrees/customNodes/HealthThresholdNode.cs
+  uploadId: 770975

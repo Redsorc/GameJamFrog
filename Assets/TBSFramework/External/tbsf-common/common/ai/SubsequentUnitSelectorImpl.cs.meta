@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 96854f777129fe944b4ca47701eadcc2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/SubsequentUnitSelectorImpl.cs
+  uploadId: 770975

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 36a372f767bef304bbd0bd1b9a23ae72
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/controllers/gridStates/GridStateBlockInput.cs
+  uploadId: 770975

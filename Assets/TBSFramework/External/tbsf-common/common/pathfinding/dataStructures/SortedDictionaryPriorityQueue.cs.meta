@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 20424bfbdb355df419fba46e92fb4756
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/pathfinding/dataStructures/SortedDictionaryPriorityQueue.cs
+  uploadId: 770975

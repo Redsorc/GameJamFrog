@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: da0c1310417788c46bc6a9273352748d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/evaluators/DamageDealtPositionEvaluator.cs
+  uploadId: 770975

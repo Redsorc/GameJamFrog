@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6b65cd1daf34db04bbe29936340cb0dc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/evaluators/HealthTargetEvaluator.cs
+  uploadId: 770975

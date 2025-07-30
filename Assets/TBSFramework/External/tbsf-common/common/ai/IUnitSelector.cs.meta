@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 93657a44429eecc41a0680675c235fa3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/ai/IUnitSelector.cs
+  uploadId: 770975

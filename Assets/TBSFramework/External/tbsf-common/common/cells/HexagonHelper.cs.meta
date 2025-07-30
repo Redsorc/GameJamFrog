@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7cb0b1c997daa4649b84dd95a1c50e4b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/cells/HexagonHelper.cs
+  uploadId: 770975

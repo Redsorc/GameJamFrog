@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7621a752e7509a548ac88b8813b00107
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/utilities/GridUtilities.cs
+  uploadId: 770975

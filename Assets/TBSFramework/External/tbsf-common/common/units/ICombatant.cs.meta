@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 311c6e89cce78764bb69d9ad99867374
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/units/ICombatant.cs
+  uploadId: 770975

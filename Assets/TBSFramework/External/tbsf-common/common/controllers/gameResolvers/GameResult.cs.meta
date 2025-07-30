@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ae15498e010ed434396f4c3ae6262ee6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50282
+  packageName: Turn Based Strategy Framework
+  packageVersion: 4.0
+  assetPath: Assets/TBSFramework/External/tbsf-common/common/controllers/gameResolvers/GameResult.cs
+  uploadId: 770975
